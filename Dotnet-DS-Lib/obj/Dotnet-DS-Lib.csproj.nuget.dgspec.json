@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devin\\Documents\\Dotnet-DS-Lib-1\\Dotnet-DS-Lib\\Dotnet-DS-Lib.csproj": {}
+    "C:\\Users\\devin\\Documents\\Dotnet-DS-Lib\\Dotnet-DS-Lib\\Dotnet-DS-Lib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devin\\Documents\\Dotnet-DS-Lib-1\\Dotnet-DS-Lib\\Dotnet-DS-Lib.csproj": {
+    "C:\\Users\\devin\\Documents\\Dotnet-DS-Lib\\Dotnet-DS-Lib\\Dotnet-DS-Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devin\\Documents\\Dotnet-DS-Lib-1\\Dotnet-DS-Lib\\Dotnet-DS-Lib.csproj",
+        "projectUniqueName": "C:\\Users\\devin\\Documents\\Dotnet-DS-Lib\\Dotnet-DS-Lib\\Dotnet-DS-Lib.csproj",
         "projectName": "Dotnet-DS-Lib",
-        "projectPath": "C:\\Users\\devin\\Documents\\Dotnet-DS-Lib-1\\Dotnet-DS-Lib\\Dotnet-DS-Lib.csproj",
+        "projectPath": "C:\\Users\\devin\\Documents\\Dotnet-DS-Lib\\Dotnet-DS-Lib\\Dotnet-DS-Lib.csproj",
         "packagesPath": "C:\\Users\\devin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devin\\Documents\\Dotnet-DS-Lib-1\\Dotnet-DS-Lib\\obj\\",
+        "outputPath": "C:\\Users\\devin\\Documents\\Dotnet-DS-Lib\\Dotnet-DS-Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devin\\AppData\\Roaming\\NuGet\\NuGet.Config"
